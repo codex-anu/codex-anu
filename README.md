@@ -158,7 +158,8 @@ A web application that provides weather information through a clean and user-fri
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codex-anu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codex-anu&show_icons=true&theme=tokyonight&hide_border=true" width="495"/>
+
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-anu&layout=compact&theme=tokyonight&hide_border=true" width="330"/>
@@ -168,8 +169,6 @@ A web application that provides weather information through a clean and user-fri
 <img src="https://streak-stats.demolab.com?user=codex-anu&theme=tokyonight&hide_border=true" width="495"/>
 
 </div>
-
----
 
 # 🐍 Contribution Snake
 
