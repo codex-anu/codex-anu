@@ -217,7 +217,8 @@ web applications
 
 </tr>
 </table>
-# 🔗 Let's Connect
+
+### 🔗 Let's Connect
 
 <div align="center">
 
@@ -244,6 +245,7 @@ web applications
 </table>
 
 </div>
+
 ### 📅 Last Updated
 
 **August  2026**
