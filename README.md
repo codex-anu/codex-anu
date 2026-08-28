@@ -1,12 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3949AB,50:5E35B1,100:8E44AD&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:052e16,100:14532d&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-
+<h3 align="center">Code. Create. Learn. Repeat. </h3>
 <br>
-
-<a href="https://github.com/codex-anu">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/anujschandel/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,16 +14,15 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Developer+in+Progress;B.Tech+CSE+Student;Building+Real-World+Projects;Code+%E2%80%A2+Create+%E2%80%A2+Learn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Learning+to+build%2C+building+to+learn!;Turning+ideas+into+projects.;Always+learning+something+new." />
+</p>
 
-<br><br>
-
-### `Code. Create. Learn. Repeat. 💻`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3949AB,50:7C3AED,100:EC4899&height=4&section=header" width="100%"/>
 
 </div>
 
 ## 👨‍💻 About Me
-
 I'm Anuj Chandel, a Computer Science & Engineering student who enjoys building practical projects and learning through hands-on development.
 
 I like taking an idea, turning it into something functional, and improving it one step at a time.
@@ -223,12 +218,7 @@ web applications
 
 <table>
 <tr>
-<td>
-<a href="https://github.com/codex-anu">
-<img src="https://skillicons.dev/icons?i=github" width="50">
-</a>
-</td>
-
+  
 <td>
 <a href="https://www.linkedin.com/in/anujschandel/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50">
