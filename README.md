@@ -178,15 +178,13 @@ A web application that provides weather information through a clean and user-fri
 </div>
 
 ---
-
 # 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codex-anu&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area_color=22C55E&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph-lac-omega.vercel.app/graph?username=codex-anu&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area_color=22C55E&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
----
 
 # 🤝 Open Source & Collaboration
 
