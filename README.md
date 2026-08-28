@@ -2,24 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3949AB,50:5E35B1,100:EC4899&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<h3 align="center">
-  <span style="display:inline-block;padding:8px 25px;border:2px solid #7C3AED;border-radius:30px;background:linear-gradient(90deg,#3949AB,#5E35B1,#EC4899);color:white;">
-    Code. Create. Learn. Repeat. 💻
-  </span>
-</h3>
+<h3 align="center">Code. Create. Learn. Repeat. 💻</h3>
 
 <br>
 
 <a href="YOUR_LINKEDIN_LINK">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="YOUR_INSTAGRAM_LINK">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3949AB,50:7C3AED,100:EC4899&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3949AB,50:7C3AED,100:EC4899&height=3&section=header" width="100%"/>
 
 </div>
 
