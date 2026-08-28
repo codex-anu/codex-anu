@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3949AB,50:5E35B1,100:EC4899&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
-
-<h3 align="center">Code. Create. Learn. Repeat. 💻</h3>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Create.%20Learn.%20Repeat.%20💻&descAlignY=55&descSize=18" width="100%">
 
 <a href="YOUR_LINKEDIN_LINK">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
