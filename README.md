@@ -1,24 +1,30 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3949AB,50:5E35B1,100:8E44AD&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3949AB,50:5E35B1,100:EC4899&height=220&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<h3 align="center">Code. Create. Learn. Repeat. </h3>
+<h3 align="center">
+
+<span style="color:#4F8CFF;">Code.</span>
+<span style="color:#7C4DFF;">Create.</span>
+<span style="color:#C04CFF;">Learn.</span>
+<span style="color:#EC4899;">Repeat.</span> 💻
+
+</h3>
+
 <br>
 
-<a href="https://www.linkedin.com/in/anujschandel/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/anujschandel/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Learning+to+build%2C+building+to+learn!;Turning+ideas+into+projects.;Always+learning+something+new." />
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3949AB,50:7C3AED,100:EC4899&height=4&section=header" width="100%"/>
+
 
 </div>
 
