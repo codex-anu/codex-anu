@@ -218,33 +218,31 @@ web applications
 </tr>
 </table>
 
-### 🔗 Let's Connect
+<td width="35%" valign="top">
+
+## 🔗 Let's Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td>
 <a href="https://github.com/codex-anu">
-<img src="https://skillicons.dev/icons?i=github" width="55">
+<img src="https://skillicons.dev/icons?i=github" width="50">
 </a>
-</td>
 
-<td>
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/anujschandel/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50">
 </a>
-</td>
 
-<td>
+&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/anujschandel/">
-<img src="https://skillicons.dev/icons?i=instagram" width="55">
+<img src="https://skillicons.dev/icons?i=instagram" width="50">
 </a>
-</td>
-</tr>
-</table>
 
 </div>
+
+</td>
 
 ### 📅 Last Updated
 
