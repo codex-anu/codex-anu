@@ -26,25 +26,11 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-<div align="center">
-
-| | |
-|---|---|
-| 👨‍💻 | **Developer in progress** |
-| 💡 | **Turning ideas into projects.** |
-| 🚀 | **Code • Create • Learn** |
-
-</div>
-
-I'm **Anuj Chandel**, a Computer Science & Engineering student who enjoys building practical projects and learning through hands-on development.
+I'm Anuj Chandel, a Computer Science & Engineering student who enjoys building practical projects and learning through hands-on development.
 
 I like taking an idea, turning it into something functional, and improving it one step at a time.
-
----
 
 ## 🎓 Education
 
@@ -232,33 +218,27 @@ web applications
 </tr>
 </table>
 
-</div>
-
----
-
 # 🔗 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/codex-anu">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/anujschandel/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/anujschandel/">
-<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
 </div>
-
----
 
 <div align="center">
 
@@ -268,7 +248,7 @@ web applications
 
 ### 📅 Last Updated
 
-**August 28, 2026**
+**August 2026**
 
 <br>
 
