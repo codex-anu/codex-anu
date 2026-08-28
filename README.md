@@ -217,38 +217,36 @@ web applications
 
 </tr>
 </table>
-
 # 🔗 Let's Connect
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <a href="https://github.com/codex-anu">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="55">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td>
 <a href="https://www.linkedin.com/in/anujschandel/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td>
 <a href="https://www.instagram.com/anujschandel/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="55">
 </a>
+</td>
+</tr>
+</table>
 
 </div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=codex-anu&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"/>
-
-<br><br>
-
 ### 📅 Last Updated
 
-**August 2026**
+**August  2026**
 
 <br>
 
