@@ -233,9 +233,6 @@ web applications
 
 **August  2026**
 
-&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Build%20with%20curiosity.%20Create%20with%20purpose.%20Grow%20with%20every%20project.&descAlignY=55&descSize=18" width="100%">
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Build%20with%20curiosity.%20Create%20with%20purpose.%20Grow%20with%20every%20project.%20🚀&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Build%20with%20curiosity.%20Create%20with%20purpose.%20Grow%20with%20every%20project.%20🚀&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
