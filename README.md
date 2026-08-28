@@ -1,70 +1,95 @@
 <div align="center">
 
-# Hey, I'm Anuj 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Anuj%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-### 💻 Developer • 🚀 Builder • 🧠 Problem Solver
+### 💻 Computer Science Student • 🚀 Developer • 🧠 Problem Solver
 
-Building things, learning new technologies, and turning ideas into reality.
+Building projects, learning technologies, and turning ideas into reality.
 
-[![GitHub](https://img.shields.io/badge/GitHub-codex--anu-181717?style=for-the-badge&logo=github)](https://github.com/codex-anu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<br>
+
+<a href="https://github.com/codex-anu">
+<img src="https://img.shields.io/badge/GitHub-codex--anu-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anujschandel/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 I'm a developer who loves building real-world projects
-- 🌱 Currently learning and improving my development skills
-- 🔥 Interested in Web Development, Backend & AI
-- 🧩 I enjoy solving problems and experimenting with new technologies
-- 🎯 Always trying to build something better than yesterday
+🎓 **B.Tech Computer Science & Engineering** student at **Arya College of Engineering**
+
+💻 Interested in software development and building real-world applications.
+
+🌱 Currently improving my programming and web development skills.
+
+🚀 I enjoy turning ideas into working projects and learning by building.
+
+🧠 Always exploring new technologies and improving my problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 💻 Languages
+**Arya College of Engineering**
+
+**B.Tech — Computer Science & Engineering**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=c,python,js" />
 </p>
 
 ### 🌐 Web Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database & Backend
+### ⚙️ Tools & Collaboration
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+- Git
+- GitHub
+- GitHub Collaboration
+- VS Code
 
 ---
 
-## 🚧 Currently Building
+## 🚀 Featured Projects
 
-- 🌐 Full-stack web applications
-- 🤖 AI-powered projects
-- 🧠 Improving Data Structures & Algorithms
-- 🚀 Exploring new development technologies
+### 📚 SRMS Portal
+
+A web-based **Student Record Management System** designed to manage student-related information through an easy-to-use interface.
+
+🔗 **Live Project:**  
+https://anujschandel.pythonanywhere.com
+
+**Tech:** Python • HTML • CSS • JavaScript
 
 ---
 
-## ⭐ Featured Projects
+### 🌦️ Weather Hub
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚀 Project 1 | Your project description | React / Node |
-| 🌐 Project 2 | Your project description | HTML / CSS / JS |
-| 🤖 Project 3 | Your AI project | Python / AI |
+A web application that provides weather-related information through a simple and user-friendly interface.
 
-> More projects available on my [GitHub](https://github.com/codex-anu)
+🔗 **Live Project:**  
+https://weatherhub.pythonanywhere.com
+
+**Tech:** HTML • CSS • JavaScript • Python
 
 ---
 
@@ -72,64 +97,58 @@ Building things, learning new technologies, and turning ideas into reality.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codex-anu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-anu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=codex-anu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 </div>
 
 ---
 
-## 📈 Most Used Languages
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-anu&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=codex-anu&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 💻 Most Used Languages
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/codex-anu/codex-anu/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-anu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 💡 What I'm Open To
-
-- 🤝 Collaboration on interesting projects
-- 💻 Open-source contributions
-- 🚀 Hackathons & tech competitions
-- 🧠 Learning opportunities
-- 🌐 Full-stack / AI projects
-
----
-
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-I'm always open to discussing technology, projects, ideas, and opportunities.
-
-### 📫 Find me here
-
-[![GitHub](https://img.shields.io/badge/GitHub-codex--anu-black?style=for-the-badge&logo=github)](https://github.com/codex-anu)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<img src="https://github-profile-trophy.vercel.app/?username=codex-anu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-### ⭐ If you like my work, consider giving my repositories a star!
-
-**Thanks for visiting my profile! 🚀**
+<img src="https://raw.githubusercontent.com/codex-anu/codex-anu/output/github-contribution-grid-snake.svg"/>
 
 </div>
+
+---
+
+## 🚧 Currently Learning
+
+```text
+🌐 Web Development
+🐍 Python
+⚡ JavaScript
+🧩 Problem Solving
+🔧 Git & GitHub
+🚀 Building Real-World Projects
